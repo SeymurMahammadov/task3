@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    background-color: #212529;
+    padding: 30px 90px;
+    text-align: end;
+}
+
+.header a{
+    color: #9B9D97;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.underhead{
+    background-color: #267DFD;
+    padding: 120px;
+    text-align: center;
+}
+
+.underhead h1{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.underhead h5{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 25px;
+    font-weight: lighter;
+}
+.underhead a{
+    border: 1px solid white;
+    padding: 15px 30px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 17px;
+    
+}
+
+.middle{
+    
+    padding: 50px;
+}
+
+.middle h2{
+    margin-bottom: 30px;
+    margin-left: 400px;
+    font-weight: bold;
+    font-size: 35px;
+}
+.middle p{
+    margin-bottom: 30px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+
+.middle ul{
+    margin-left: 450px;
+    font-size: 20px;
+}
+.undermid{
+    background-color: #F8F9FA;
+    padding: 200px;
+}
+.undermid h2{
+    margin-left: 250px;
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+
+.undermid p{
+    margin-left: 250px;
+    font-size: 20px;
+}
+
+.undermidd{
+    padding: 200px;
+}
+
+.undermidd h2{
+    margin-left: 250px;
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+
+.undermidd p{
+    margin-left: 250px;
+    font-size: 20px;
+}
+.end{
+    background-color: #212529;
+    padding: 40px;
+    text-align: center;
+}
+.end p{
+    color: white;
+
+}
